@@ -1,0 +1,12 @@
+Game_name:小王子;
+Game_key:1610cd59b1eec91;
+Title_img:封面.jpg;
+Title_bgm:haomian_title.mp3;
+Textbox_theme:imss;
+Enable_flowchart:true;
+Default_Language:zh_CN;
+Enable_Continue:true;
+Game_Logo:;
+Package_name:xiaowangzi;
+Flowchart_Locked_Node_Visibility:all;
+Description:想给小王子完整的一生。;

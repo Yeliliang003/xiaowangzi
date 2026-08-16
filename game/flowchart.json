@@ -1,0 +1,98 @@
+{
+  "flowcharts": [
+    {
+      "id": "main",
+      "name": "小王子",
+      "type": "main",
+      "nodes": [
+        {
+          "id": "node-1",
+          "type": "custom",
+          "position": {
+            "x": 198,
+            "y": -146.5157165665104
+          },
+          "data": {
+            "label": "开始",
+            "sceneName": "start.txt",
+            "isRoot": true
+          }
+        },
+        {
+          "id": "node-2",
+          "type": "custom",
+          "position": {
+            "x": 72.28836744873854,
+            "y": 45.75407874105828
+          },
+          "data": {
+            "label": "序章",
+            "sceneName": "序章.txt",
+            "isRoot": false
+          }
+        },
+        {
+          "id": "node-3",
+          "type": "custom",
+          "position": {
+            "x": -92.92463532424281,
+            "y": 234.71487934489897
+          },
+          "data": {
+            "label": "日之章",
+            "sceneName": "日之章/日之章00.txt",
+            "isRoot": false
+          }
+        },
+        {
+          "id": "node-6",
+          "type": "custom",
+          "position": {
+            "x": 241.76836303471543,
+            "y": 252.36611886687584
+          },
+          "data": {
+            "label": "夜之章",
+            "sceneName": "夜之章/夜之章00.txt",
+            "isRoot": false
+          }
+        },
+        {
+          "id": "node-7",
+          "type": "custom",
+          "position": {
+            "x": 581.1882204864033,
+            "y": 248.73126507392266
+          },
+          "data": {
+            "label": "梦之章",
+            "sceneName": "梦之章.txt",
+            "isRoot": false
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "e-node-1-node-2",
+          "source": "node-1",
+          "target": "node-2"
+        },
+        {
+          "id": "e-node-2-node-3",
+          "source": "node-2",
+          "target": "node-3"
+        },
+        {
+          "id": "e-node-2-node-6",
+          "source": "node-2",
+          "target": "node-6"
+        },
+        {
+          "id": "e-node-2-node-7",
+          "source": "node-2",
+          "target": "node-7"
+        }
+      ]
+    }
+  ]
+}

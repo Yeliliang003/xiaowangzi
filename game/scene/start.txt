@@ -1,0 +1,30 @@
+bgm:同谋者的默契 (伴奏).mp3;
+changeBg:独白-模糊.jpg -enter=blur;
+setAnimation:blur -target=bg-main -next;
+intro:我曾经见过另一个自己，
+  |在很小很小的时候；
+  |
+  |但还有更多的“我”，
+  |直至被销毁都无人知晓。
+  |
+  |而做为「胜利者」留下来的我，
+  |价值又在哪里？
+  -fontSize=small
+  -backgroundImage=独白-模糊.jpg
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 0.81)
+  -animation=pixelateEffect
+  -delayTime=2500
+  -hold;
+intro:终于……
+  |这一天也到来了。
+  -fontSize=large
+  -backgroundImage=独白-模糊.jpg
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 1)
+  -animation=pixelateEffect
+  -delayTime=2500
+  -hold;
+bgm:none;
+playEffect:水滴.mp3;
+callScene:序章.txt;
