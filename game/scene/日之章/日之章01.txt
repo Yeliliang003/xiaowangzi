@@ -1,0 +1,61 @@
+bgm:同谋者的默契 (伴奏).mp3;
+intro:与阿尔法的联姻很快定下来，
+  |黄仁俊进入紧张忙碌的备婚状态。
+  |
+  |按照星际婚姻法规定，申请结婚的双方除了要通过相关资质审核之外，还必须进行六个月以上的试婚期。
+  |
+  |待试婚期结束之后，
+  |双方均无异议方可正式登记，缔结婚姻关系。
+  -fontSize=small
+  -backgroundImage=叙事-模糊.jpg
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 1)
+  -animation=fadeIn
+  -delayTime=2000
+  -hold;
+intro:可黄仁俊比谁都清楚，不论试婚结果如何，
+  |他都没有权利说出那个“不”字。
+  |
+  |从他按下选择键的那一刻起，他便属于了阿尔法，属于了那个素未谋面却即将成为他丈夫的人。
+  |
+  |他今后的身份不再是西格玛的小王子，
+  |而是阿尔法的太子妃。
+  -fontSize=small
+  -backgroundImage=叙事-模糊.jpg
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 1)
+  -animation=fadeIn
+  -delayTime=2000
+  -hold;
+intro:启程的这一天，风轻云净，
+  |万里晴空一碧如洗，金灿灿的曦光如焰似火铺满整片大地。
+  |
+  |黄仁俊在西格玛送亲团的簇拥祝福下，登上那艘飞往阿尔法的星舰，正式开启他为期六个月的试婚生活。
+  |
+  |引擎声轰鸣，故国的厚土在舷窗外逐渐远去，
+  |眼前慢慢展开望不到尽头的星河。
+  -fontSize=small
+  -backgroundImage=叙事-模糊.jpg
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 1)
+  -animation=fadeIn
+  -delayTime=2000
+  -hold;
+intro:若一切顺利，他与阿尔法那位名为「李帝努」的太子殿下，
+  |将会在半年后举行大婚。
+  |
+  |未来……可以期待吗？
+  |他不知道，但他希望「是」。
+  |
+  |日光渐盛，在驶向阿尔法的道路上，
+  |整片星辰都在追着太阳。
+  -fontSize=small
+  -backgroundImage=叙事-模糊.jpg
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 1)
+  -animation=fadeIn
+  -delayTime=2000
+  -hold;
+playEffect:闪闪.wav;
+changeBg:日之章01.jpg;
+bgm:none;

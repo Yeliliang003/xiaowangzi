@@ -24,5 +24,5 @@ bgm:none;
 setAnimation:shockwaveOut -target=bg-main -next;
 playEffect:水滴.mp3;
 changeBg:序章终.jpg -enter=shockwaveIn;
-changeBg:日之章01.jpg;
-end;
+changeBg:none;
+callScene:日之章/日之章01.txt;
